@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan David</h1>
-<h3 align="center">A FrontEnd Developer with emphasis on ReactJs interested in learning about all kinds of web technologies and a lover of their contribution to society and its global reach. From Bogotá, Colombia.</h3>
+<h3 align="center">A FrontEnd Developer with emphasis on ReactJs interested in learning about all kinds of web technologies and a lover of their contribution to society and its global reach. I was born in Pereira, but i live in Bogotá, Colombia since a long time .</h3>
 
 - 🌱 I’m currently learning **about testing and databases to complement my Frontend knowledge.**
 
