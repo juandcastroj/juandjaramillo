@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **juandavid4130@gmail.com**
 
-- ⚡ Fun fact **I love cycling and my cat, Martin.**
+- ⚡ Fun fact **I love cycling 🚴 and my cat, Martin. 🐱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
