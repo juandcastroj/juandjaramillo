@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Juan David! ⚜</h1>
 <h4 align="center">FrontEnd Developer with emphasis on ReactJs, interested in learning about all kinds of web technologies and a lover of their contribution to society and its global reach. trying to make this a better world.
 
- 📫 Contact me in my email **juandavid4130@gmail.com** 
+ 
+ 📫 Contact me in **juandavid4130@gmail.com** 
 
  ⚡ Fun fact **I love music and cycling 🚴**
 
