@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Juan David! ⚜</h1>
-<h4 align="center">FrontEnd Developer with emphasis on ReactJs, interested in learning about all kinds of web technologies and a lover of their contribution to society and its global reach. I was born in Pereira, but i live in Bogotá, Colombia since a long time .</h4>
-
-- 🌱 I’m currently learning **about databases to complement my Frontend knowledge.**
+<h4 align="center">FrontEnd Developer with emphasis on ReactJs, interested in learning about all kinds of web technologies and a lover of their contribution to society and its global reach.
 
 - 📫 Contact me in my email **juandavid4130@gmail.com** and my linkedIn **https://www.linkedin.com/in/juan-david-castro-025749a6/**
 
-- ⚡ Fun fact **I love music, cycling 🚴 and my cat, Martin. 🐱**
+- ⚡ Fun fact **I love music and cycling 🚴**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
